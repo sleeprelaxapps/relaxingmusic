@@ -36,13 +36,9 @@ features                                  :
 
   
                                              
-
-  - title                                 : 
-    description                           : 
-
-
-   
-    fontawesome_icon_name                 : info-circle        
+  - title                                 : GitHub Pages Jekyll Theme
+    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    fontawesome_icon_name                 : magic
 
 
 # Theme Settings
