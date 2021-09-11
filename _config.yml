@@ -1,5 +1,5 @@
 #page title
-page_title                                : "Meditation Music"                                      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : "Relaxing Music"                                      # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 
@@ -8,7 +8,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/ic_launcher-playstore.png                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : "Meditation Music"                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : "Relaxing Music"                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : "Take a break in your day to relax and breathe. Discover how meditation and relaxation music can help you find inner peace and improve your life.
 "
