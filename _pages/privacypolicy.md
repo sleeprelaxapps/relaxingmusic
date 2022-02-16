@@ -5,11 +5,11 @@ include_in_header: false
 ---
 
 **Last updated**  
-Mar 12 2021
+Feb 16 2022
 
 # Privacy Policy
 
-Alunt Apps built the Meditation Music app as an Ad Supported app. This SERVICE is provided by Alunt Apps at no cost and is intended for use as is.
+SleepRelaxApps built the Meditation Music app as an Ad Supported app. This SERVICE is provided by SleepRelaxApps at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -69,8 +69,5 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2021-03-12
 
-# Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at aluntapps@gmail.com.
 
   
